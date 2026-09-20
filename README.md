@@ -1,5 +1,7 @@
 # NativOdds Automated Lead Generation & AI Enrichment Workflow (n8n)
 
+https://jonirar122.app.n8n.cloud/form/7f5c7f9b-33df-4443-b51a-2131482375a8
+
 An automated agency lead processing pipeline built using **n8n workflow automation**, **Gemini AI API**, **Custom HTML/JavaScript Scripts**, **Google Sheets**, and automated email nodes.
 
 ---
@@ -45,3 +47,17 @@ This project provides a complete end-to-end automation solution for agency inqui
 * **Database / Storage:** Google Sheets API
 * **Email Protocol:** SMTP / Mail Service Nodes
 * **Frontend Design:** Custom Responsive HTML/CSS Email Templates
+
+<img width="1600" height="609" alt="WhatsApp Image 2026-09-20 at 3 09 26 PM" src="https://github.com/user-attachments/assets/483a9e03-a087-4dca-8071-aa970d841b46" />
+
+<img width="523" height="325" alt="WhatsApp Image 2026-09-20 at 3 10 47 PM" src="https://github.com/user-attachments/assets/0393acdb-0957-4267-be21-eeb96bfc2b72" />
+
+<img width="1600" height="474" alt="WhatsApp Image 2026-09-20 at 3 13 47 PM" src="https://github.com/user-attachments/assets/819d1b44-4fd3-4199-b9e3-3774af064735" />
+
+<img width="1600" height="482" alt="WhatsApp Image 2026-09-20 at 3 14 09 PM" src="https://github.com/user-attachments/assets/18f79417-7319-4d73-be00-cd2624dd4244" />
+
+<img width="707" height="698" alt="WhatsApp Image 2026-09-20 at 3 14 38 PM" src="https://github.com/user-attachments/assets/ea458cfc-7426-45bb-bd86-0b6430578e5c" />
+
+<img width="590" height="651" alt="WhatsApp Image 2026-09-20 at 3 14 54 PM" src="https://github.com/user-attachments/assets/f81fc513-0cd1-4fb8-83f6-705e56564c77" />
+
+
